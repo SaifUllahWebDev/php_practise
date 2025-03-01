@@ -35,7 +35,7 @@
     </style>
 </head>
 <body>
-
+ 
     <h2>Multi-Input Form</h2>
     <form action="submit.php" method="post">
         <label for="name">Full Name:</label>
@@ -78,3 +78,5 @@
 
 </body>
 </html>
+
+
